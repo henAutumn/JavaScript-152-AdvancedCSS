@@ -1,0 +1,31 @@
+```html
+  <!--rounded corners example-->
+<div class="wrap">
+<div class="softie"></div>
+</div>
+
+ <!--targeted corners example-->
+<div class="wrap">
+<div class="picasso"></div>
+</div>
+
+ <!--ellipse/oval-->
+<div class="wrap">
+<div class="egg"></div>
+</div>
+  
+   <!--shape experiment--> 
+<div class="wrap"> 
+<div class="wonder"></div>
+</div>
+
+   < 
+<div class="wrap"> 
+  <div class="wrapper">
+  <div class="circ1">
+      <div class="circ2">
+      </div>
+  </div> 
+  </div>  
+</div>
+```

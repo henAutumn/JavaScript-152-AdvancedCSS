@@ -10,7 +10,7 @@
     * [2.1: Module 2.1](Colors/2.1.md)
 * [Part 3: Transitions]
 * [Part 4: Animations]
-* [Part 5: Borders and Shapes]
+* [Part 5: Borders and Shapes](BordersShapes/3.0.md)
 * [Part 6: Images]
 * [Part 7: Shadows and Transforms]
 
