@@ -22,3 +22,8 @@ Click [here](http://styleguide.gitbook.com/) for the gitbook style guide.
 Click [here](StyleGuide/StyleGuide.md) to go straight to the Eleven Fifty style guide.
 
 
+CSS Advanced intro 
+
+concepts
+key things to know -webkit-
+glossary

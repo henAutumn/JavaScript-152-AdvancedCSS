@@ -1,0 +1,25 @@
+```html
+<div class="wrapper">
+    <div class="wrap">
+
+        <div class="absolute"></div>
+        
+        <div class="relative"></div>  
+        
+        <div class="fixed"></div>
+
+        <div class="inherit"></div>
+        
+        <div class="static"></div> 
+  
+    </div>
+</div>
+```
+
+
+
+
+
+
+
+  
