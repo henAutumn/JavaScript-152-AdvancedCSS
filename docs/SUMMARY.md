@@ -14,7 +14,8 @@
         *[1.1: Module 1.1](Postion/1.1)
 * [Part 6: Borders and Shapes](BordersShapes/3.0.md)
 * [Part 7: Images]
-* [Part 9: Shadows and Transforms]
+* [Part 9: Shadows and Transforms](Shadow/9.0.md)
+        * [9.0: Module 9.0](Shadow/9.0.md)
 * [Part 8: Media Queries](MQ/8.0)
 
 * [Eleven Fifty Style Guide](StyleGuide/StyleGuide.md)
