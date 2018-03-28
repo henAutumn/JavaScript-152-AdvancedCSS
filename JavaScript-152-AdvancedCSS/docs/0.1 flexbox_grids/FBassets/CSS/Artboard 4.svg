@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="529px" height="416px" viewBox="0 0 529 416" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="91.6487069 92.4432133 156.707974 92.4432133 434.105603 92.4432133 434.105603 320.698061 91.6487069 320.698061"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-4">
+            <g id="Group-34" transform="translate(2.000000, 2.000000)">
+                <g id="Group-30">
+                    <g id="Group-29">
+                        <rect id="Rectangle-6-Copy-5" stroke="#000000" stroke-width="2.99332935" opacity="0.313688859" stroke-dasharray="0.3741661810874939,5.238326535224915,0.3741661810874939" x="0" y="0" width="525" height="412"></rect>
+                        <g id="Rectangle-6-Copy-7">
+                            <use fill="#20466C" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <path stroke="#E64340" stroke-width="2.99332935" d="M90.1520422,90.9465486 L435.602268,90.9465486 L435.602268,322.194726 L90.1520422,322.194726 L90.1520422,90.9465486 Z"></path>
+                        </g>
+                        <path d="M264.005776,19.7820868 L264.005776,72.6611265" id="Line-9" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path id="Line-9-decoration-1" d="M264.005776,19.7820868 L267.005776,30.5820868 L261.005776,30.5820868 L264.005776,19.7820868 Z" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path id="Line-9-decoration-2" d="M264.005776,72.6611265 L267.005776,61.8611265 L261.005776,61.8611265 L264.005776,72.6611265 Z" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path d="M264.005776,340.099723 L264.005776,392.978763" id="Line-9-Copy" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path id="Line-9-Copy-decoration-1" d="M264.005776,340.099723 L267.005776,350.899723 L261.005776,350.899723 L264.005776,340.099723 Z" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path id="Line-9-Copy-decoration-2" d="M264.005776,392.978763 L267.005776,382.178763 L261.005776,382.178763 L264.005776,392.978763 Z" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path d="M76.3739224,207.132059 L23.9493534,207.132059" id="Line-9-Copy" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path id="Line-9-Copy-decoration-1" d="M76.3739224,207.132059 L65.5739224,210.132059 L65.5739224,204.132059 L76.3739224,207.132059 Z" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path id="Line-9-Copy-decoration-2" d="M23.9493534,207.132059 L34.7493534,210.132059 L34.7493534,204.132059 L23.9493534,207.132059 Z" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path d="M506.707974,205.990785 L454.283405,205.990785" id="Line-9-Copy-2" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path id="Line-9-Copy-2-decoration-1" d="M506.707974,205.990785 L495.907974,208.990785 L495.907974,202.990785 L506.707974,205.990785 Z" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                        <path id="Line-9-Copy-2-decoration-2" d="M454.283405,205.990785 L465.083405,208.990785 L465.083405,202.990785 L454.283405,205.990785 Z" stroke="#000000" stroke-width="3.36749552" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
