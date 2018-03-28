@@ -8,6 +8,7 @@
     *[1.3: Mastering the Concepts](0.1_flexbox_grids/1.3.Mastering_Concepts.md)
     *[1.4: Grids](0.1_flexbox_grids/1.5.Grids.md)
     *[1.5: Glossary](0.1_flexbox_grids/1.6.Glossary.md)
+    *[1.6: Overview](0.1_flexbox_grids/1.6.Glossary.md)
 * [Part 2: Borders and Shapes](0.2_borders_shapes/0.2_borders_shapes.md)
     *[2.0: Borders](0.2_borders_shapes/2.0.md)
 * [Part 3: Colors](0.3_colors/0.3_colors.md)
