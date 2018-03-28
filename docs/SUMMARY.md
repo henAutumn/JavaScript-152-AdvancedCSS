@@ -22,7 +22,7 @@
     *[5.3: Fixed](0.5_positioning/5.3..Fixed.md)
     *[5.4: Sticky](0.5_positioning/5.4.Sticky.md)
     *[5.5: Absolute](0.5_positioning/5.5.Absolute.md)
-    *[5.6: Glossary](0.5_positioning/5.6.Z_Index.md)
+    *[5.6: Z-index](0.5_positioning/5.6.Z_Index.md)
     *[5.7: Glossary](0.5_positioning/5.7.Glossary.md)
 * [Part 6: Media Queries](0.6_media_queries/0.6_media_queries.md)
 * [Part 7: Transitions]
