@@ -113,6 +113,16 @@ Flexbox is a method used to layout a website. Grids are a method used to layout 
 
 What is the focus of this module, Flexbox or Grids? I am lost right away here.
 
+I wrote in an objective statement at the top of that file:
+
+# Intro: FLEXBOXES & GRIDS
+---
+In this module we will introduce some basics of Flexbox. 
+
+<hr />
+
+Then, I would just stick to introducing Flexbox in a very basic way. Why is it so great? Why should I be spending time on this? How can you get me interested in this?
+
 Can we cut any fluff or confusion and get to the point sooner? 
 
 Are we talking about Flexbox or Grid? Can we define what Flexbox is?
