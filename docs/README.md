@@ -27,3 +27,17 @@ CSS Advanced intro
 concepts
 key things to know -webkit-
 glossary
+
+Topics we will cover:
+flexbox
+grids
+borders
+shapes
+colors
+gradients
+positioning
+media queries
+floats
+transitions
+animations
+transformations
