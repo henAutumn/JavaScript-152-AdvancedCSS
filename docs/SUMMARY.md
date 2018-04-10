@@ -26,7 +26,7 @@
      *[5.6: Glossary 1.1](0.5 positioning/5.6 Glossary.md)
 * [Part 6: Media Queries](0.6 media_queries/0.6 media_queries.md)
 * [Part 7: Transitions](0.7 transitions/0.7 transitions.md)
-     *[7.0: Module 7.0](0.7 transitions/7.0.md)
+     * [7.0: Module 7.0](0.7 transitions/7.0.md)
 * [Part 8: Animations]
 * [Part 9: Shadows and Transforms](Shadow/9.0.md)
      * [9.0: Module 9.0](Shadow/9.0.1.md)
