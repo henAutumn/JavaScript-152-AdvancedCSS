@@ -7,7 +7,7 @@
     * [0.03](css.overview/0.03_measurements.md)
 * [Part 1: Flexbox and Grids](0.1_flexboxgrids/0.1_flexboxgrids.md)
     * [1.0: Intro](0.1_flexboxgrids/1.0.intro.md)
-    * [1.1: Parents with Many Children](0.1_flexboxgrids/1.1.parentschildren.md)
+    * [1.1: Parents with Many Children](0.1_flexboxgrids/1.1.parentsgitbookchildren.md)
     * [1.2: Grids](0.1_flexboxgrids/1.2.grids.md)
     * [1.3: Layouts](0.1_flexboxgrids/1.3.layouts.md)
     * [1.4: Mastering the Concepts](0.1_flexboxgrids/1.4.masteringconcepts.md)
