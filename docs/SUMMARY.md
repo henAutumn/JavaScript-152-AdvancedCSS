@@ -27,7 +27,8 @@
 * [Part 6: Media Queries](0.6 media_queries/0.6 media_queries.md)
 * [Part 7: Transitions](0.7 transitions/0.7 transitions.md)
      * [7.0: Module 7.0](0.7 transitions/7.0.md)
-* [Part 8: Animations]
+* [Part 8: Animations](0.8 animations/0.8 animations.md)
+     * [8.0: Module 8.0](0.8 animations/8.0.md)
 * [Part 9: Shadows and Transforms](Shadow/9.0.md)
      * [9.0: Module 9.0](Shadow/9.0.1.md)
 
