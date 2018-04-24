@@ -1,9 +1,14 @@
 {
-    "plugins": ["my-theme", "expandable-chapters"],
+    "plugins": ["my-theme", "expandable-chapters", "codepen"],
     "pluginsConfig": {
         "my-theme": {
             "font-family": "sans"
-        }
+        },
+        "codepen": {
+            "height": 400,
+            "theme": 14038,
+            "description": "somepen"
+          }
     },
     "root": "./docs"
 }
