@@ -20,10 +20,10 @@
     * [2.1: Borders](0.2_bordersshapes/2.1.beyondcircles.md)
     * [2.2: Borders](0.2_bordersshapes/2.2.divingdeeper.md)
 * [Part 3: Colors](0.3_colors/0.3_colors.md)
-    * [3.0: Module](0.3_colors/3.0.md)
-    * [3.1: Module](0.3_colors/3.1.md)
+    * [3.0: Colors](0.3_colors/3.0.md)
+    * [3.1: Gradients](0.3_colors/3.1.md)
 * [Part 4: Shadow and Transforms](0.4_shadows/0.4_shadows.md)
-    * [4.1: Module](0.4_shadows/4.1.md)
+    * [4.0: Shadows](0.4_shadows/4.0.md)
 * [Part 5: Positioning](0.5_positioning/0.5.md)
     * [5.0: Intro](0.5_positioning/5.0.intro.md)
     * [5.1: Static](0.5_positioning/5.1.static.md)
@@ -34,8 +34,10 @@
     * [5.6: Z-index](0.5_positioning/5.6.z_index.md)
     * [5.7: Glossary](0.5_positioning/5.7.glossary.md)
 * [Part 6: Media Queries](0.6_mediaqueries/0.6_mediaqueries.md)
-* [Part 7: Transitions]
-* [Part 8: Animations]
+* [Part 7: Transitions](0.7_transitions/0.7_transitions.md)
+    * [7.0: Transitions](0.7_transitions/7.0.md)
+* [Part 8: Animations](0.8_animations/0.8_animations.md)
+    * [8.0: Animations](0.8_animations/8.0.md)
 * [Part 9: Shadows and Transforms](shadow/9.0.md)
     * [9.0: Module 9.0](shadow/9.0.1.md)
 
